@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # reconstruct-bst
 
+Difficulty: medium
 
   The pre-order traversal of a Binary Tree is a traversal technique that starts
   at the tree's root node and visits nodes in the following order:
